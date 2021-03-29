@@ -1,2 +1,2 @@
-# AppOfNotesKeeper
+# NotesKeeper
 Created with CodeSandbox
